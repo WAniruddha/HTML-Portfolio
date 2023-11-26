@@ -1,0 +1,23 @@
+body{
+    background-color:hsla(78, 100%, 95%, 0.698) ;
+
+}
+
+table, tr, td, th, caption{
+    border: 1px solid rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse ;
+    padding: 0.5rem;
+}
+a{
+    color: rgb(38, 26, 26)
+}
+a:active{
+    color: black;
+}
+a:hover{
+    color: rgba(33, 0, 65, 0.424);
+}
+a:visited{
+    color: rgba(0, 0, 0, 0.442), 0, 0);
+}
